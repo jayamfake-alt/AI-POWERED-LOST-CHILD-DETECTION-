@@ -1,0 +1,6 @@
+{
+  "name": "AI-Powered Lost Child Detection System",
+  "description": "Using Artificial Intelligence and Facial Recognition to Quickly Locate Missing Children in Crowded Places. A modern, responsive final-year engineering project website with interactive demo dashboard.",
+  "requestFramePermissions": ["camera"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
